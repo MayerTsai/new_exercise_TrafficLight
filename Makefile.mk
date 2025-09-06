@@ -14,7 +14,7 @@ LDFLAGS =
 TARGET = traffic_sim
 
 # 所有來源 .c 檔案
-SRCS = src/main.c src/my_signal.c 
+SRCS = src/main.c src/set_signal.c 
 
 
 # 從 .c 檔案列表自動產生 .o (object) 檔案列表
